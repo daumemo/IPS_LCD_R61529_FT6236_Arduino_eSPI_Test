@@ -1,5 +1,7 @@
 # IPS LCD R61529 FT6236 Arduino eSPI Test
-This is an example code used to test R61529 based LCD with FT6236 touch controller connected to an ESP32 MCU through parallel(8080) interface. This code uses eSPI library
+This is an example code used to test R61529 based LCD with FT6236 touch controller connected to an ESP32 MCU through parallel(8080) interface. This code uses eSPI library.
+
+You can find additional information at my blog: https://daumemo.com/ips-lcd-esp32-with-espi-library-and-touch-screen-diy-generator-part-9/
 
 Note: Although you will find some files that contains R61581 in it, but be aware that those are modified files from original eSPI library to support R61529 ICs (Some or all code was changed in those header files).
 
@@ -38,3 +40,5 @@ SCL -> GPIO 14
 INT -> GPIO 35
 
 RST -> GPIO 32 (connected together with the LCD reset pin) 
+
+![Screen showns touch point](https://daumemo.com/wp-content/uploads/2020/03/ESP32-touch-test-code-with-eSPI-and-FT6236-controller.jpg)
