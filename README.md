@@ -1,5 +1,5 @@
 # IPS LCD R61529 FT6236 Arduino eSPI Test
-This is an example code used to test R61529 based LCD with FT6236 touch controller ((bought from [Aliexpress](https://www.aliexpress.com/item/32940608152.html?spm=a2g0o.productlist.0.0.66e773f6vAhLCI&algo_pvid=f9214500-0ba3-4aff-b9a8-9fc9dc51cd2a&algo_expid=f9214500-0ba3-4aff-b9a8-9fc9dc51cd2a-16&btsid=25887317-95e8-4f7a-aabc-1913fdfeaadf&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53))) connected to an ESP32 MCU through parallel(8080) interface. This code uses eSPI library.
+This is an example code used to test R61529 based LCD with FT6236 touch controller (bought from [Aliexpress](https://www.aliexpress.com/item/32940608152.html?spm=a2g0o.productlist.0.0.66e773f6vAhLCI&algo_pvid=f9214500-0ba3-4aff-b9a8-9fc9dc51cd2a&algo_expid=f9214500-0ba3-4aff-b9a8-9fc9dc51cd2a-16&btsid=25887317-95e8-4f7a-aabc-1913fdfeaadf&ws_ab_test=searchweb0_0,searchweb201602_6,searchweb201603_53)) connected to an ESP32 MCU through parallel(8080) interface. This code uses eSPI library.
 
 You can find additional information at my blog: https://daumemo.com/ips-lcd-esp32-with-espi-library-and-touch-screen-diy-generator-part-9/
 
